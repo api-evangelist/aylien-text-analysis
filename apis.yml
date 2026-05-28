@@ -1,0 +1,32 @@
+aid: aylien-text-analysis
+name: Aylien Text Analysis
+description: "A collection of information retrieval and natural language APIs"
+url: https://docs.aylien.com/textapi/#getting-started
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: Aylien Text Analysis
+    description: "A collection of information retrieval and natural language APIs"
+    humanURL: https://docs.aylien.com/textapi/#getting-started
+    baseURL: https://docs.aylien.com/textapi/#getting-started
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://docs.aylien.com/textapi/#getting-started
+common:
+  - type: Website
+    url: https://docs.aylien.com/textapi/#getting-started
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
