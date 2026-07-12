@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://docs.aylien.com/textapi/#getting-started
 common:
+  - type: DomainSecurity
+    url: security/aylien-text-analysis-domain-security.yml
   - type: Website
     url: https://docs.aylien.com/textapi/#getting-started
   - type: PublicAPIsListing
